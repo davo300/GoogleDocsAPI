@@ -3,7 +3,7 @@ Title: Decoding a Secret Message
 Author: Matt Davies
 Date: April 22, 2025
 
-Pre-requisits: 
+Prerequisites: 
 - Make sure you enable Google Docs API key for your google
 account for the specific project.
 - Make sure you make a credentials.json file in this directory 
