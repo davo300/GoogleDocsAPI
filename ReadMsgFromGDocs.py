@@ -11,6 +11,7 @@ that allows the API to work.
 - Make sure you give editior access using the share button to 
 python-api@tutorial-gdocs.iam.gserviceaccount.com which is given
 in the Google docs API dashboard.
+- Make sure you install google docs api in unix terminal
 - Make sure your document has correct format for a secret message.
 
 Description:
