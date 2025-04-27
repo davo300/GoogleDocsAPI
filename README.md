@@ -3,6 +3,8 @@ Using the Google Docs API tools
 
 My first file involves decoding a Secret message from a private Google document, using the the Google Docs API tools.
 
+See Google Docs API documentation here: https://googleapis.github.io/google-api-python-client/docs/dyn/docs_v1.documents.html
+
 <table>
   <thead>
     <tr>
